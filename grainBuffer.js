@@ -16,10 +16,10 @@ function closewindow() {
 
 function append(fileName) {
     pb.append(fileName);
-	fileNameDict.set(fileName, fileCout);
+	fileNameDict.set(fileName, fileCount);
 	var curFile = "0;" + fileName + ";0";
 	selection.push(curFile);
-	fileCout++;
+	fileCount++;
 
 }
 
