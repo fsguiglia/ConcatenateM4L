@@ -1,4 +1,3 @@
-# Fusión 2020
-## El mapa no es el territorio 2 (MNT2)
+Dispositivo de Max for live para síntesis concatenativa basada en corpus controlada por [MNT2](https://github.com/fsguiglia/MNT2). Para síntesis concatenativa en Ableton Live sin usar MNT2 ver [Hato](https://github.com/fsguiglia/Hato).
 
-Corpus based concatenative synth en M4l, para usar con [MNT2](https://github.com/fsguiglia/MNT2)
++ info: https://www.sguiglia.com.ar/mnt/
